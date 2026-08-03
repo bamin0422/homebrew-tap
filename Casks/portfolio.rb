@@ -1,12 +1,12 @@
 cask "portfolio" do
-  version "0.1.0"
+  version "0.1.2"
 
   on_arm do
-    sha256 "48b87e2523f7e7ae80f2b7e024c870fdc61f8730520520a696253c8d93956f90"
+    sha256 "2c9c3e9f4cbdb754ad0581296c67fa46c7a2596f6d767e82ec679a8e385dc802"
     url "https://github.com/bamin0422/portfolio/releases/download/v#{version}/Portfolio-#{version}-arm64.dmg"
   end
   on_intel do
-    sha256 "19f9d5dcd915f5aa209e7ab8ff8a26f6ed46aae5e8e4fc8d7cef2c4930f0a6fb"
+    sha256 "0b1b9a5d7ff47345800df068e1e3b766fd6cd83ad85f5cb70203337e700b4479"
     url "https://github.com/bamin0422/portfolio/releases/download/v#{version}/Portfolio-#{version}.dmg"
   end
 
