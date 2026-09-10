@@ -1,8 +1,8 @@
 class Otpbar < Formula
   desc "Menu bar TOTP app and CLI for macOS; imports Google Authenticator exports"
   homepage "https://github.com/bamin0422/otpbar"
-  url "https://github.com/bamin0422/otpbar/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "70f247603a7d647531085699baaf2736037b72727a4825759bbeb1daa45fd84f"
+  url "https://github.com/bamin0422/otpbar/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "62a9655e3887ba8d38acfd949f079ee13e5b55a955281225c1a2549d58e33506"
   license "MIT"
   head "https://github.com/bamin0422/otpbar.git", branch: "main"
 
